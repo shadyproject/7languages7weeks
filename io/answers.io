@@ -39,3 +39,7 @@ nil or true println //true
 true or nil println //true
 nil or false println //false
 false or nil println //false
+
+//get the list of slots a prototype supports
+Object proto slotNames
+Object slotNames
